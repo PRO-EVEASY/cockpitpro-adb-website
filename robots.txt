@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://PRO-EVEASY.github.io/cockpitpro-adb-website/sitemap.xml
